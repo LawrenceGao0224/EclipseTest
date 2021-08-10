@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kaosh
+ *
+ */
+module GitTest {
+}
